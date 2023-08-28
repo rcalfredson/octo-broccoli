@@ -6,8 +6,9 @@ Artist discovery via Spotify API + randomness
 - `pip install -r requirements.txt`
 - In a `.env` file, write
   - ```
-  SPOTIFY_CLIENT_ID=YOUR_ID
-    SPOTIFY_CLIENT_SECRET=YOUR_SECRET```
+    SPOTIFY_CLIENT_ID=YOUR_ID
+    SPOTIFY_CLIENT_SECRET=YOUR_SECRET
+    ```
 
 ## Usage
 - `python search.py`
